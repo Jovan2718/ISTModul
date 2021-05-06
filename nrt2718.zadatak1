@@ -1,0 +1,10 @@
+const{log,sqrt,pow} = require('mathjs')
+let izraz1 = log(1000, 10);
+
+let izraz2 = sqrt(15876);
+
+let izraz3 = pow(4,4);
+
+console.log("Prvi izraz: " + izraz1);
+console.log("Drugi izraz: " + izraz2);
+console.log("Treci izraz: " + izraz3);
